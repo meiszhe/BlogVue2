@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "tabler:alien",
+        "name": "Home"
+    },
+    {
+        "icon": "tabler:app-window",
+        "name": "Latest News"
+    },
+    {
+        "icon": "tabler:archive",
+        "name": "Explore"
+    },
+    {
+        "icon": "tabler:align-box-bottom-left",
+        "name": "Files"
+    },
+    {
+        "icon": "tabler:armchair-2",
+        "name": "Galery"
+    },
+    {
+        "icon": "tabler:air-balloon",
+        "name": "Events"
+    }
+]

@@ -1,0 +1,20 @@
+.timeline-box {
+    background-color: #151728;
+    border-radius: 4px;
+}
+textarea {
+    overflow: auto;
+}
+button, textarea, input {
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+img {
+    border-style: none;
+    overflow: hidden;
+}
+a {
+    background: transparent;
+}
